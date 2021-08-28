@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @Fareusz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 siema / hello
+- 👀 young js programmer
+- 🌱 discord.js is op
+- 💞️ hearts
+- 📫 fareusz.ovh <- my website (plz visit)
+
+
+Something interesting there. 
+
+
 
 <!---
 Fareusz/Fareusz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
