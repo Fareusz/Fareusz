@@ -1,11 +1,8 @@
 - 👋 siema / hello
-- 👀 young js programmer
-- 🌱 discord.js is op
+- 👀 young developer
+- 🌱 python and js enjoyer
 - 💞️ hearts
 - 📫 fareusz.ovh <- my website (plz visit)
-
-
-Something interesting there. 
 
 
 
