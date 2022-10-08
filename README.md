@@ -2,7 +2,7 @@
 - 👀 young developer
 - 🌱 python and js enjoyer
 - 💞️ hearts
-- 📫 fareusz.ovh <- my website (plz visit)
+- 📫 skunk.house <- my website (plz visit)
 
 
 
